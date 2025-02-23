@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="krugra">
+    <output-path>$PROJECT_DIR$/out/artifacts/krugra</output-path>
+    <root id="archive" name="krugra.jar" />
+  </artifact>
+</component>
